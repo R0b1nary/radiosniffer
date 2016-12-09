@@ -13,7 +13,7 @@ Radiosniffer only works under Linux. It is written and tested under Mint 18 on a
 The used libraries should be standard except for **pybluez** (pip) and **Scapy** (python-scapy). Additionally, airmon-ng of the **aircrack-ng** suite is used.
 The script expects a MAC-vendor lookup file (standards-oui.ieee.org/oui.txt) in a directory named "vendors".
 
-##Result Example
+##Result Examples
 ###Online
 ```
 Wifi channel  104 (5.52   GHz) | Beacons: 64    | Requests: 23
