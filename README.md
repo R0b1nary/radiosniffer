@@ -2,7 +2,7 @@
 Modern laptops come with various interfaces. Wifi and Bluetooth are commonly provided. The idea of radiosniffer is a tool to sniff for wifi and bluetooth devices with "onboard equipment". Therefore, it could be helpful for lightweight security evaluations or simply satisfaction of curiosity. While the features aren't new, radiosniffer provides:
 * setup of sniffing environment (especially wifi)
 * wifi channel hopping
-* inclusion of beacon frames
+* inclusion of probe requests
 * vendor lookup
 * automatic restoration for normal operation (linked to ctrl-c)
 * summary of results while running and after (comprehensive result file)
