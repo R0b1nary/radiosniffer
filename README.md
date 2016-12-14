@@ -117,3 +117,10 @@ MAC Address       | Vendor           | Device Name       | Linked Wifi Device
 00:9e:c8:52:14:ad | Xiaomi           | MiBOX3            | 
 c0:ee:fb:58:7d:f6 | OnePlus          | OnePlus X         | yes
 ```
+
+##TODO
+- encryption of wifi APs
+- option for efficient channel hopping (unused channels are ignored after n loops)
+- option for csv output
+- fault tolerance for missing interfaces (bt/wifi)
+- setup.py
