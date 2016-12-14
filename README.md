@@ -122,5 +122,6 @@ c0:ee:fb:58:7d:f6 | OnePlus          | OnePlus X         | yes
 - encryption of wifi APs
 - option for efficient channel hopping (unused channels are ignored after n loops)
 - option for csv output
+- adaption for window size
 - fault tolerance for missing interfaces (bt/wifi)
 - setup.py
